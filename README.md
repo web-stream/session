@@ -1,6 +1,17 @@
 # [session.webstream.dev](https://session.webstream.dev/)
 
 
+Zapoznaj się proszę z informacjami na temat biblioteki Web Stream Dev
+Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadania.
+
++ [questions.webstream.dev](https://questions.webstream.dev)
+
++ [task.webstream.dev](https://task.webstream.dev)
++ 
+## How to start the Contribution?
+
++ [start.webstream.dev](https://start.webstream.dev/)
+
 
 1. Uzgadniamy termin spotkania, przypomnienie, bot na discord, 
    1. informacje kto co robi na projekcie ...
