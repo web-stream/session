@@ -18,10 +18,6 @@ Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadan
 Wybieramy narzędzia do współpracy, 
 + [tools.webstream.dev](https://tools.webstream.dev/)
 
-+ screen share, plugin do share-owania IDE,
-+ discord/slack integration, dla omawiania kodu w IDE, podczas pisania
-+ screen shot and chatting, jak jabber...
-
 
 ### Obieramy kierunek, 1-3 zadania
    
