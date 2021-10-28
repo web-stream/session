@@ -6,22 +6,28 @@ Jeśli znasz odpowiedzi na poniższe pytania, to możemy zacząć pierwsze zadan
 
 + [questions.webstream.dev](https://questions.webstream.dev)
 
-+ [task.webstream.dev](https://task.webstream.dev)
-+ 
 ## How to start the Contribution?
 
 + [start.webstream.dev](https://start.webstream.dev/)
 
 
-1. Uzgadniamy termin spotkania, przypomnienie, bot na discord, 
-   1. informacje kto co robi na projekcie ...
-2. Zaczynamy 3h sesję
-   1. Wybieramy narzędzia do współpracy, 
-      1. screen share, plugin do share-owania IDE,
-      2. discord/slack integration, dla omawiania kodu w IDE, podczas pisania
-      3. screen shot and chatting, jak jabber...
-   2. Obieramy kierunek, 1-3 zadania
+### Uzgadniamy termin spotkania, przypomnienie, bot na discord, 
++ informacje kto co robi na projekcie ...
+
+### Zaczynamy 3h sesję
+Wybieramy narzędzia do współpracy, 
++ [tools.webstream.dev](https://tools.webstream.dev/)
+
++ screen share, plugin do share-owania IDE,
++ discord/slack integration, dla omawiania kodu w IDE, podczas pisania
++ screen shot and chatting, jak jabber...
+
+
+### Obieramy kierunek, 1-3 zadania
    
++ [task.webstream.dev](https://task.webstream.dev)
+
+
 
 ## Coding Session
 3 Parts of Session during 3h session,
